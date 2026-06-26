@@ -1,0 +1,13 @@
+transformers==4.53.3
+sentence-transformers==5.1.0
+huggingface_hub==0.34.4
+accelerate
+sentencepiece
+
+torch
+
+qdrant-client
+
+langchain-community
+langchain-text-splitters
+pypdf
